@@ -1,0 +1,10 @@
+5 Git Commands with uses:
+1. git init - Creates a new Git repository.
+
+2. git add - Stage changes for next commit.
+
+3. git commit - Save staged changes to repository.
+
+4. git push - Uploads local commits to a repository.
+
+5. git clone - Copies one git repository from GitHub to my computer.
